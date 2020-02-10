@@ -554,13 +554,13 @@ body {
       rgba(10, 10, 10, 0.3),
       rgb(10, 10, 10, 1)
     ),
-    url("https://images.unsplash.com/photo-1580745605338-34e38a99ac71?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=675&q=80");
+    url("https://images.pexels.com/photos/412842/pexels-photo-412842.jpeg?auto=compress");
   --background-background: linear-gradient(
       0deg,
       rgba(10, 10, 10, 1),
       rgba(10, 10, 10, 0.6)
     ),
-    url("https://images.unsplash.com/photo-1580745605338-34e38a99ac71?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=675&q=80") center center fixed;
+    url("https://images.pexels.com/photos/412842/pexels-photo-412842.jpeg?auto=compress") center center fixed;
   --height: 50vh;
 }
 
@@ -591,6 +591,6 @@ body {
         rgba(10, 10, 10, 1),
         rgba(10, 10, 10, 0)
       ),
-      url("https://images.unsplash.com/photo-1580745605338-34e38a99ac71?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=675&q=80") !important;
+      url("https://images.pexels.com/photos/412842/pexels-photo-412842.jpeg?auto=compress") !important;
   }
 }

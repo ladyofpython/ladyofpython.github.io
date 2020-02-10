@@ -1,0 +1,541 @@
+24c24
+<                 <span style="display:block;"><i class="fas fa-link"></i> &nbsp; <a href="https://twitter.com/ladyofpython">twitter.com/ladyofpython</a></span>
+---
+>                 <span style="display:block;"><i class="fas fa-link"></i> &nbsp; <a href="https://twitter.com/ladyofpython">https://twitter.com/ladyofpython</a></span>
+25a26
+>                 <span style="display:block;"><i class="fas fa-user-tie"></i> &nbsp;&nbsp; Available for hire</span>
+36c37
+<         <h1>Projects</h1>
+---
+>         <h1>Work.</h1>
+38,51c39
+<                         <a href="https://github.com/ladyofpython/wordMash" target="_blank">
+<                         <section>
+<                             <div class="section_title">wordMash</div>
+<                             <div class="about_section">
+<                             <span style="display:block;">Word mash program in ruby</span>
+<                             </div>
+<                             <div class="bottom_section">
+<                                 <span style="display:inline-block;"><i class="fas fa-code"></i>&nbsp; Ruby</span>
+<                                 <span><i class="fas fa-star"></i>&nbsp; 1</span>
+<                                 <span><i class="fas fa-code-branch"></i>&nbsp; 0</span>
+<                             </div>
+<                         </section>
+<                         </a>
+<                         <a href="https://github.com/ladyofpython/centOSscript4noobs" target="_blank">
+---
+>                         <a href="https://github.com/ladyofpython/virtual-art-museum" target="_blank">
+53c41
+<                             <div class="section_title">centOSscript4noobs</div>
+---
+>                             <div class="section_title">virtual-art-museum</div>
+55c43
+<                             <span style="display:block;">These are practice scripts meant for learning purposes. Use with caution and great skepticism.</span>
+---
+>                             <span style="display:block;">🖼️ Download images from the Met! Use for wallpaper or presentations!</span>
+58c46
+<                                 <span style="display:inline-block;"><i class="fas fa-code"></i>&nbsp; Shell</span>
+---
+>                                 <span style="display:inline-block;"><i class="fas fa-code"></i>&nbsp; Python</span>
+64c52
+<                         <a href="https://github.com/picatz/goldengirl" target="_blank">
+---
+>                         <a href="https://github.com/ladyofpython/TFOSS-GCP-Test-Scripts" target="_blank">
+66c54
+<                             <div class="section_title">goldengirl</div>
+---
+>                             <div class="section_title">TFOSS-GCP-Test-Scripts</div>
+68c56
+<                             <span style="display:block;">✨ All that shimmers is gold! </span>
+---
+>                             <span style="display:none;">undefined</span>
+71,72c59,60
+<                                 <span style="display:inline-block;"><i class="fas fa-code"></i>&nbsp; Go</span>
+<                                 <span><i class="fas fa-star"></i>&nbsp; 3</span>
+---
+>                                 <span style="display:inline-block;"><i class="fas fa-code"></i>&nbsp; HCL</span>
+>                                 <span><i class="fas fa-star"></i>&nbsp; 0</span>
+77c65
+<                         <a href="https://github.com/ladyofpython/gh-python" target="_blank">
+---
+>                         <a href="https://github.com/ladyofpython/python-crypto-farms" target="_blank">
+79c67
+<                             <div class="section_title">gh-python</div>
+---
+>                             <div class="section_title">python-crypto-farms</div>
+81c69
+<                             <span style="display:none;">undefined</span>
+---
+>                             <span style="display:block;">Scripts while studying cryptography and cryptographic attacks.</span>
+84c72
+<                                 <span style="display:none;"><i class="fas fa-code"></i>&nbsp; null</span>
+---
+>                                 <span style="display:inline-block;"><i class="fas fa-code"></i>&nbsp; Python</span>
+90c78
+<                         <a href="https://github.com/ladyofpython/python-crash" target="_blank">
+---
+>                         <a href="https://github.com/ladyofpython/AIRRA" target="_blank">
+92c80
+<                             <div class="section_title">python-crash</div>
+---
+>                             <div class="section_title">AIRRA</div>
+94c82
+<                             <span style="display:block;">LEARNING REPO - examples from python crash course</span>
+---
+>                             <span style="display:block;">Azure Incident Response Remediation and Analysis</span>
+97c85
+<                                 <span style="display:inline-block;"><i class="fas fa-code"></i>&nbsp; Python</span>
+---
+>                                 <span style="display:inline-block;"><i class="fas fa-code"></i>&nbsp; C#</span>
+103c91
+<                         <a href="https://github.com/ladyofpython/IA385site" target="_blank">
+---
+>                         <a href="https://github.com/ladyofpython/azure-simple-vpn-gateway" target="_blank">
+105c93
+<                             <div class="section_title">IA385site</div>
+---
+>                             <div class="section_title">azure-simple-vpn-gateway</div>
+107c95
+<                             <span style="display:block;">Website for my IA385 class</span>
+---
+>                             <span style="display:block;">Azure VPN assignment for capstone</span>
+110c98
+<                                 <span style="display:inline-block;"><i class="fas fa-code"></i>&nbsp; HTML</span>
+---
+>                                 <span style="display:inline-block;"><i class="fas fa-code"></i>&nbsp; PowerShell</span>
+116c104
+<                         <a href="https://github.com/ladyofpython/w3schools" target="_blank">
+---
+>                         <a href="https://github.com/ladyofpython/emiliska.github.io" target="_blank">
+118c106
+<                             <div class="section_title">w3schools</div>
+---
+>                             <div class="section_title">emiliska.github.io</div>
+120c108
+<                             <span style="display:block;">LEARNING REPO - my w3schools</span>
+---
+>                             <span style="display:block;">portfolio site</span>
+129c117
+<                         <a href="https://github.com/ladyofpython/debian-stretch-py-scripts" target="_blank">
+---
+>                         <a href="https://github.com/ladyofpython/hobby-website" target="_blank">
+131c119
+<                             <div class="section_title">debian-stretch-py-scripts</div>
+---
+>                             <div class="section_title">hobby-website</div>
+133c121
+<                             <span style="display:block;">Assorted debian scripts written in python.</span>
+---
+>                             <span style="display:block;">Code for my hobby practice website</span>
+136c124
+<                                 <span style="display:none;"><i class="fas fa-code"></i>&nbsp; null</span>
+---
+>                                 <span style="display:inline-block;"><i class="fas fa-code"></i>&nbsp; HTML</span>
+142c130
+<                         <a href="https://github.com/ladyofpython/automatetheboringstuff-python3" target="_blank">
+---
+>                         <a href="https://github.com/ladyofpython/Flask-Blog-Site" target="_blank">
+144c132
+<                             <div class="section_title">automatetheboringstuff-python3</div>
+---
+>                             <div class="section_title">Flask-Blog-Site</div>
+146c134
+<                             <span style="display:block;">LEARNING REPO - various python programs from the nostarch press book automate the boring stuff with python</span>
+---
+>                             <span style="display:block;">Learning about building a blog site with Flask</span>
+149c137
+<                                 <span style="display:inline-block;"><i class="fas fa-code"></i>&nbsp; Python</span>
+---
+>                                 <span style="display:inline-block;"><i class="fas fa-code"></i>&nbsp; HTML</span>
+155c143
+<                         <a href="https://github.com/ladyofpython/unix-commands-python3" target="_blank">
+---
+>                         <a href="https://github.com/ladyofpython/bootstrap_wedding_site" target="_blank">
+157c145
+<                             <div class="section_title">unix-commands-python3</div>
+---
+>                             <div class="section_title">bootstrap_wedding_site</div>
+159c147
+<                             <span style="display:block;">Practicing python through reimplementation of common UNIX commands</span>
+---
+>                             <span style="display:block;">A simple wedding site made with bootstrap.</span>
+162c150
+<                                 <span style="display:inline-block;"><i class="fas fa-code"></i>&nbsp; Python</span>
+---
+>                                 <span style="display:none;"><i class="fas fa-code"></i>&nbsp; null</span>
+168c156
+<                         <a href="https://github.com/ladyofpython/gcloud-Ubuntu-14-and-Flask-setup" target="_blank">
+---
+>                         <a href="https://github.com/ladyofpython/wedding-website-vuejs" target="_blank">
+170c158
+<                             <div class="section_title">gcloud-Ubuntu-14-and-Flask-setup</div>
+---
+>                             <div class="section_title">wedding-website-vuejs</div>
+175,176c163,164
+<                                 <span style="display:inline-block;"><i class="fas fa-code"></i>&nbsp; Shell</span>
+<                                 <span><i class="fas fa-star"></i>&nbsp; 1</span>
+---
+>                                 <span style="display:none;"><i class="fas fa-code"></i>&nbsp; null</span>
+>                                 <span><i class="fas fa-star"></i>&nbsp; 0</span>
+181c169
+<                         <a href="https://github.com/ladyofpython/docker_ubuntu_iptables_challenge" target="_blank">
+---
+>                         <a href="https://github.com/ladyofpython/multilingual-number-guessing-games" target="_blank">
+183c171
+<                             <div class="section_title">docker_ubuntu_iptables_challenge</div>
+---
+>                             <div class="section_title">multilingual-number-guessing-games</div>
+185c173
+<                             <span style="display:block;">Using docker to build test environment for users to learn iptables rules.</span>
+---
+>                             <span style="display:block;">using this simple game as a method to share how languages can be compared in simple programs as a teaching tool</span>
+188c176
+<                                 <span style="display:none;"><i class="fas fa-code"></i>&nbsp; null</span>
+---
+>                                 <span style="display:inline-block;"><i class="fas fa-code"></i>&nbsp; Python</span>
+194c182
+<                         <a href="https://github.com/ladyofpython/powershell-scripts" target="_blank">
+---
+>                         <a href="https://github.com/ladyofpython/dirty-windows" target="_blank">
+196c184
+<                             <div class="section_title">powershell-scripts</div>
+---
+>                             <div class="section_title">dirty-windows</div>
+198c186
+<                             <span style="display:block;">a place to store my random powershell scripts</span>
+---
+>                             <span style="display:block;">Windows scripts for when you have a dirty, old Windows box.</span>
+207c195
+<                         <a href="https://github.com/ladyofpython/gscripts-general-purpose" target="_blank">
+---
+>                         <a href="https://github.com/picatz/competition-practice-env" target="_blank">
+209c197
+<                             <div class="section_title">gscripts-general-purpose</div>
+---
+>                             <div class="section_title">competition-practice-env</div>
+211c199
+<                             <span style="display:block;">Some gscripts I am working on to make my life easier and recycle some needed code.</span>
+---
+>                             <span style="display:block;">🌩  Cloud infrastructure-as-code for attack and defense CTFs on GCP</span>
+214,216c202,204
+<                                 <span style="display:none;"><i class="fas fa-code"></i>&nbsp; null</span>
+<                                 <span><i class="fas fa-star"></i>&nbsp; 0</span>
+<                                 <span><i class="fas fa-code-branch"></i>&nbsp; 0</span>
+---
+>                                 <span style="display:inline-block;"><i class="fas fa-code"></i>&nbsp; Go</span>
+>                                 <span><i class="fas fa-star"></i>&nbsp; 1</span>
+>                                 <span><i class="fas fa-code-branch"></i>&nbsp; 1</span>
+220c208
+<                         <a href="https://github.com/ladyofpython/wedding-site-go-app" target="_blank">
+---
+>                         <a href="https://github.com/ladyofpython/python-farms" target="_blank">
+222c210
+<                             <div class="section_title">wedding-site-go-app</div>
+---
+>                             <div class="section_title">python-farms</div>
+224c212
+<                             <span style="display:block;">a wedding website with a golang flex app engine backend</span>
+---
+>                             <span style="display:block;">A collection of python code I've written for class.</span>
+227c215
+<                                 <span style="display:inline-block;"><i class="fas fa-code"></i>&nbsp; HTML</span>
+---
+>                                 <span style="display:inline-block;"><i class="fas fa-code"></i>&nbsp; Python</span>
+233c221
+<                         <a href="https://github.com/ladyofpython/rokugo" target="_blank">
+---
+>                         <a href="https://github.com/ladyofpython/incident-response-cloud-terraform-labs" target="_blank">
+235c223
+<                             <div class="section_title">rokugo</div>
+---
+>                             <div class="section_title">incident-response-cloud-terraform-labs</div>
+237c225
+<                             <span style="display:block;">Rokugo is a client to remotely control your roku device written in go.</span>
+---
+>                             <span style="display:block;">Using Terraform to automate infrastructure management in Azure</span>
+240c228
+<                                 <span style="display:none;"><i class="fas fa-code"></i>&nbsp; null</span>
+---
+>                                 <span style="display:inline-block;"><i class="fas fa-code"></i>&nbsp; HCL</span>
+246c234
+<                         <a href="https://github.com/ladyofpython/gbg-hunter" target="_blank">
+---
+>                         <a href="https://github.com/ladyofpython/vagrant-cookbook" target="_blank">
+248c236
+<                             <div class="section_title">gbg-hunter</div>
+---
+>                             <div class="section_title">vagrant-cookbook</div>
+250c238
+<                             <span style="display:block;">A program to help facilitate finding gameboy game lots for sale on the internet.</span>
+---
+>                             <span style="display:block;">A collection of vagrant scripts to build machines for specific use-cases.</span>
+253c241
+<                                 <span style="display:none;"><i class="fas fa-code"></i>&nbsp; null</span>
+---
+>                                 <span style="display:inline-block;"><i class="fas fa-code"></i>&nbsp; Ruby</span>
+272c260
+<                         <a href="https://github.com/ladyofpython/vagrant-cookbook" target="_blank">
+---
+>                         <a href="https://github.com/ladyofpython/gbg-hunter" target="_blank">
+274c262
+<                             <div class="section_title">vagrant-cookbook</div>
+---
+>                             <div class="section_title">gbg-hunter</div>
+276c264
+<                             <span style="display:block;">A collection of vagrant scripts to build machines for specific use-cases.</span>
+---
+>                             <span style="display:block;">A program to help facilitate finding gameboy game lots for sale on the internet.</span>
+279c267
+<                                 <span style="display:inline-block;"><i class="fas fa-code"></i>&nbsp; Ruby</span>
+---
+>                                 <span style="display:none;"><i class="fas fa-code"></i>&nbsp; null</span>
+285c273
+<                         <a href="https://github.com/ladyofpython/incident-response-cloud-terraform-labs" target="_blank">
+---
+>                         <a href="https://github.com/ladyofpython/rokugo" target="_blank">
+287c275
+<                             <div class="section_title">incident-response-cloud-terraform-labs</div>
+---
+>                             <div class="section_title">rokugo</div>
+289c277
+<                             <span style="display:block;">Using Terraform to automate infrastructure management in Azure</span>
+---
+>                             <span style="display:block;">Rokugo is a client to remotely control your roku device written in go.</span>
+292c280
+<                                 <span style="display:inline-block;"><i class="fas fa-code"></i>&nbsp; HCL</span>
+---
+>                                 <span style="display:none;"><i class="fas fa-code"></i>&nbsp; null</span>
+298c286
+<                         <a href="https://github.com/ladyofpython/python-farms" target="_blank">
+---
+>                         <a href="https://github.com/ladyofpython/wedding-site-go-app" target="_blank">
+300c288
+<                             <div class="section_title">python-farms</div>
+---
+>                             <div class="section_title">wedding-site-go-app</div>
+302c290
+<                             <span style="display:block;">A collection of python code I've written for class.</span>
+---
+>                             <span style="display:block;">a wedding website with a golang flex app engine backend</span>
+305c293
+<                                 <span style="display:inline-block;"><i class="fas fa-code"></i>&nbsp; Python</span>
+---
+>                                 <span style="display:inline-block;"><i class="fas fa-code"></i>&nbsp; HTML</span>
+311c299
+<                         <a href="https://github.com/picatz/competition-practice-env" target="_blank">
+---
+>                         <a href="https://github.com/ladyofpython/gscripts-general-purpose" target="_blank">
+313c301
+<                             <div class="section_title">competition-practice-env</div>
+---
+>                             <div class="section_title">gscripts-general-purpose</div>
+315c303
+<                             <span style="display:block;">🌩  Cloud infrastructure-as-code for attack and defense CTFs on GCP</span>
+---
+>                             <span style="display:block;">Some gscripts I am working on to make my life easier and recycle some needed code.</span>
+318,320c306,308
+<                                 <span style="display:inline-block;"><i class="fas fa-code"></i>&nbsp; Go</span>
+<                                 <span><i class="fas fa-star"></i>&nbsp; 1</span>
+<                                 <span><i class="fas fa-code-branch"></i>&nbsp; 1</span>
+---
+>                                 <span style="display:none;"><i class="fas fa-code"></i>&nbsp; null</span>
+>                                 <span><i class="fas fa-star"></i>&nbsp; 0</span>
+>                                 <span><i class="fas fa-code-branch"></i>&nbsp; 0</span>
+324c312
+<                         <a href="https://github.com/ladyofpython/dirty-windows" target="_blank">
+---
+>                         <a href="https://github.com/ladyofpython/powershell-scripts" target="_blank">
+326c314
+<                             <div class="section_title">dirty-windows</div>
+---
+>                             <div class="section_title">powershell-scripts</div>
+328c316
+<                             <span style="display:block;">Windows scripts for when you have a dirty, old Windows box.</span>
+---
+>                             <span style="display:block;">a place to store my random powershell scripts</span>
+337c325
+<                         <a href="https://github.com/ladyofpython/multilingual-number-guessing-games" target="_blank">
+---
+>                         <a href="https://github.com/ladyofpython/docker_ubuntu_iptables_challenge" target="_blank">
+339c327
+<                             <div class="section_title">multilingual-number-guessing-games</div>
+---
+>                             <div class="section_title">docker_ubuntu_iptables_challenge</div>
+341c329
+<                             <span style="display:block;">using this simple game as a method to share how languages can be compared in simple programs as a teaching tool</span>
+---
+>                             <span style="display:block;">Using docker to build test environment for users to learn iptables rules.</span>
+344c332
+<                                 <span style="display:inline-block;"><i class="fas fa-code"></i>&nbsp; Python</span>
+---
+>                                 <span style="display:none;"><i class="fas fa-code"></i>&nbsp; null</span>
+350c338
+<                         <a href="https://github.com/ladyofpython/wedding-website-vuejs" target="_blank">
+---
+>                         <a href="https://github.com/ladyofpython/gcloud-Ubuntu-14-and-Flask-setup" target="_blank">
+352c340
+<                             <div class="section_title">wedding-website-vuejs</div>
+---
+>                             <div class="section_title">gcloud-Ubuntu-14-and-Flask-setup</div>
+357c345,358
+<                                 <span style="display:none;"><i class="fas fa-code"></i>&nbsp; null</span>
+---
+>                                 <span style="display:inline-block;"><i class="fas fa-code"></i>&nbsp; Shell</span>
+>                                 <span><i class="fas fa-star"></i>&nbsp; 1</span>
+>                                 <span><i class="fas fa-code-branch"></i>&nbsp; 0</span>
+>                             </div>
+>                         </section>
+>                         </a>
+>                         <a href="https://github.com/ladyofpython/unix-commands-python3" target="_blank">
+>                         <section>
+>                             <div class="section_title">unix-commands-python3</div>
+>                             <div class="about_section">
+>                             <span style="display:block;">Practicing python through reimplementation of common UNIX commands</span>
+>                             </div>
+>                             <div class="bottom_section">
+>                                 <span style="display:inline-block;"><i class="fas fa-code"></i>&nbsp; Python</span>
+363c364
+<                         <a href="https://github.com/ladyofpython/bootstrap_wedding_site" target="_blank">
+---
+>                         <a href="https://github.com/ladyofpython/automatetheboringstuff-python3" target="_blank">
+365c366
+<                             <div class="section_title">bootstrap_wedding_site</div>
+---
+>                             <div class="section_title">automatetheboringstuff-python3</div>
+367c368
+<                             <span style="display:block;">A simple wedding site made with bootstrap.</span>
+---
+>                             <span style="display:block;">LEARNING REPO - various python programs from the nostarch press book automate the boring stuff with python</span>
+370c371
+<                                 <span style="display:none;"><i class="fas fa-code"></i>&nbsp; null</span>
+---
+>                                 <span style="display:inline-block;"><i class="fas fa-code"></i>&nbsp; Python</span>
+376c377
+<                         <a href="https://github.com/ladyofpython/Flask-Blog-Site" target="_blank">
+---
+>                         <a href="https://github.com/ladyofpython/debian-stretch-py-scripts" target="_blank">
+378c379
+<                             <div class="section_title">Flask-Blog-Site</div>
+---
+>                             <div class="section_title">debian-stretch-py-scripts</div>
+380c381
+<                             <span style="display:block;">Learning about building a blog site with Flask</span>
+---
+>                             <span style="display:block;">Assorted debian scripts written in python.</span>
+383c384
+<                                 <span style="display:inline-block;"><i class="fas fa-code"></i>&nbsp; HTML</span>
+---
+>                                 <span style="display:none;"><i class="fas fa-code"></i>&nbsp; null</span>
+389c390
+<                         <a href="https://github.com/ladyofpython/hobby-website" target="_blank">
+---
+>                         <a href="https://github.com/ladyofpython/w3schools" target="_blank">
+391c392
+<                             <div class="section_title">hobby-website</div>
+---
+>                             <div class="section_title">w3schools</div>
+393c394
+<                             <span style="display:block;">Code for my hobby practice website</span>
+---
+>                             <span style="display:block;">LEARNING REPO - my w3schools</span>
+402c403
+<                         <a href="https://github.com/ladyofpython/emiliska.github.io" target="_blank">
+---
+>                         <a href="https://github.com/ladyofpython/IA385site" target="_blank">
+404c405
+<                             <div class="section_title">emiliska.github.io</div>
+---
+>                             <div class="section_title">IA385site</div>
+406c407
+<                             <span style="display:block;">portfolio site</span>
+---
+>                             <span style="display:block;">Website for my IA385 class</span>
+415c416
+<                         <a href="https://github.com/ladyofpython/azure-simple-vpn-gateway" target="_blank">
+---
+>                         <a href="https://github.com/ladyofpython/python-crash" target="_blank">
+417c418
+<                             <div class="section_title">azure-simple-vpn-gateway</div>
+---
+>                             <div class="section_title">python-crash</div>
+419c420
+<                             <span style="display:block;">Azure VPN assignment for capstone</span>
+---
+>                             <span style="display:block;">LEARNING REPO - examples from python crash course</span>
+422c423
+<                                 <span style="display:inline-block;"><i class="fas fa-code"></i>&nbsp; PowerShell</span>
+---
+>                                 <span style="display:inline-block;"><i class="fas fa-code"></i>&nbsp; Python</span>
+428c429
+<                         <a href="https://github.com/ladyofpython/AIRRA" target="_blank">
+---
+>                         <a href="https://github.com/ladyofpython/gh-python" target="_blank">
+430c431
+<                             <div class="section_title">AIRRA</div>
+---
+>                             <div class="section_title">gh-python</div>
+432c433
+<                             <span style="display:block;">Azure Incident Response Remediation and Analysis</span>
+---
+>                             <span style="display:none;">undefined</span>
+435c436
+<                                 <span style="display:inline-block;"><i class="fas fa-code"></i>&nbsp; C#</span>
+---
+>                                 <span style="display:none;"><i class="fas fa-code"></i>&nbsp; null</span>
+441c442
+<                         <a href="https://github.com/ladyofpython/python-crypto-farms" target="_blank">
+---
+>                         <a href="https://github.com/picatz/goldengirl" target="_blank">
+443c444
+<                             <div class="section_title">python-crypto-farms</div>
+---
+>                             <div class="section_title">goldengirl</div>
+445c446
+<                             <span style="display:block;">Scripts while studying cryptography and cryptographic attacks.</span>
+---
+>                             <span style="display:block;">✨ All that shimmers is gold! </span>
+448,449c449,450
+<                                 <span style="display:inline-block;"><i class="fas fa-code"></i>&nbsp; Python</span>
+<                                 <span><i class="fas fa-star"></i>&nbsp; 0</span>
+---
+>                                 <span style="display:inline-block;"><i class="fas fa-code"></i>&nbsp; Go</span>
+>                                 <span><i class="fas fa-star"></i>&nbsp; 3</span>
+454c455
+<                         <a href="https://github.com/ladyofpython/TFOSS-GCP-Test-Scripts" target="_blank">
+---
+>                         <a href="https://github.com/ladyofpython/centOSscript4noobs" target="_blank">
+456c457
+<                             <div class="section_title">TFOSS-GCP-Test-Scripts</div>
+---
+>                             <div class="section_title">centOSscript4noobs</div>
+458c459
+<                             <span style="display:none;">undefined</span>
+---
+>                             <span style="display:block;">These are practice scripts meant for learning purposes. Use with caution and great skepticism.</span>
+461c462
+<                                 <span style="display:inline-block;"><i class="fas fa-code"></i>&nbsp; HCL</span>
+---
+>                                 <span style="display:inline-block;"><i class="fas fa-code"></i>&nbsp; Shell</span>
+467c468
+<                         <a href="https://github.com/ladyofpython/virtual-art-museum" target="_blank">
+---
+>                         <a href="https://github.com/ladyofpython/wordMash" target="_blank">
+469c470
+<                             <div class="section_title">virtual-art-museum</div>
+---
+>                             <div class="section_title">wordMash</div>
+471c472
+<                             <span style="display:block;">🖼️ Download images from the Met! Use for wallpaper or presentations!</span>
+---
+>                             <span style="display:block;">Word mash program in ruby</span>
+474,475c475,476
+<                                 <span style="display:inline-block;"><i class="fas fa-code"></i>&nbsp; Python</span>
+<                                 <span><i class="fas fa-star"></i>&nbsp; 0</span>
+---
+>                                 <span style="display:inline-block;"><i class="fas fa-code"></i>&nbsp; Ruby</span>
+>                                 <span><i class="fas fa-star"></i>&nbsp; 1</span>
+557c558
+< </body></html>
+---
+> </body></html>
+\ No newline at end of file

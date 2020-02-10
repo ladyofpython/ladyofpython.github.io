@@ -4,7 +4,7 @@
   "name": "Emily",
   "userimg": "https://avatars1.githubusercontent.com/u/33560517?v=4",
   "sort": "created",
-  "order": "asc",
+  "order": "dsc",
   "includeFork": false,
   "theme": "dark.css",
   "types": [
