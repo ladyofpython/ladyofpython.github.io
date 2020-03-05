@@ -554,15 +554,16 @@ body {
       rgba(10, 10, 10, 0.3),
       rgb(10, 10, 10, 1)
     ),
-    url("https://images.pexels.com/photos/412842/pexels-photo-412842.jpeg?auto=compress");
+    url("https://images.pexels.com/photos/842158/pexels-photo-842158.jpeg?auto=compress");
   --background-background: linear-gradient(
       0deg,
       rgba(10, 10, 10, 1),
       rgba(10, 10, 10, 0.6)
     ),
-    url("https://images.pexels.com/photos/412842/pexels-photo-412842.jpeg?auto=compress") center center fixed;
+    url("https://images.pexels.com/photos/412842/pexels-photo-842158.jpeg?auto=compress") center center fixed;
   --height: 50vh;
 }
+/* https://images.pexels.com/photos/412842/pexels-photo-412842.jpeg?auto=compress */
 
 #display h1 {
   -webkit-background-clip: text;
